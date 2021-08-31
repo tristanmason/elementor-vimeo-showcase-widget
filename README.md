@@ -1,4 +1,4 @@
-# Elementor Vimeo Showcase Widget
+# Vimeo Showcase Widget for Elementor
 
 This Wordpress plugin adds a widget to Elementor which accepts a vimeo showcase ID and embeds the showcase. It does not use the Vimeo API; it simply adds the ID to Vimeo's standard showcase embed code and spits that code out on the page. The main purpose of this plugin is to allow embedding of Vimeo showcases in Elementor without using <iframe> tags in an Elementor HTML widget, because those get stripped out in a Wordpress Multisite environment unless the user is a super admin. This widget allows editors and non-super admins to easily embed Vimeo showcases.
 
