@@ -28,3 +28,7 @@ plugin.php
 * `plugin.php` - Main plugin class
 
 For more documentation please see [Elementor Developers Resource](https://developers.elementor.com/creating-an-extension-for-elementor/).
+
+## License
+
+This open-source software is provided as-is under the GNU GPLv3, with no warranty expressed or implied. [View License](LICENSE.md)
